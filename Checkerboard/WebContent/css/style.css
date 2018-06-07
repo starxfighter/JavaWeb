@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.green{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
+.red{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+.stop{
+	display: block;
+}
