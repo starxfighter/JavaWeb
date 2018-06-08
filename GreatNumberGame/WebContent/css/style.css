@@ -1,0 +1,28 @@
+@charset "UTF-8";
+h1, h3{
+	text-align: center;
+}
+.high, .low{
+	height: 150px;
+	width: 150px;
+	background-color: red;
+	text-align: center;
+	margin-left: 880px;
+	padding-top: 40px;
+	margin-top: 30px;
+}
+.win{
+	height: 150px;
+	width: 150px;
+	background-color: green;
+	text-align: center;
+	margin-left: 880px;
+	padding-top: 40px;
+	margin-top: 30px;
+}
+.form{
+	text-align: center;
+}
+h4{
+	margin-top: 30px;
+}
